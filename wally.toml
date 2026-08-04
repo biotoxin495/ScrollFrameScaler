@@ -1,12 +1,12 @@
 [package]
-name = "biotoxin495/numberspinnerv2"
-description = "A modern TextLabel-based animated number spinner for Roblox UI."
-version = "1.2.0"
+name = "biotoxin495/scrollframescaler"
+description = "Automatically keeps a ScrollingFrame's CanvasSize fitted to its content."
+version = "1.0.0"
 license = "MIT"
 authors = ["biotoxin495"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
-repository = "https://github.com/biotoxin495/NumberSpinnerV2"
+repository = "https://github.com/biotoxin495/ScrollFrameScaler"
 
 exclude = [
 	"examples",
