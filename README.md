@@ -465,7 +465,9 @@ end)
 
 ## License
 
-Use and modify the module according to the license included with the release.
+This project is released under the MIT License.
+
+See `LICENSE` for details.
 
 ---
 
